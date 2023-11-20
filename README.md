@@ -133,5 +133,5 @@ http://www.robotification.com/2007/09/16/program-a-pic-16f690-with-the-diy-kit-1
 
 
 
-![16f690 ICSP](https://raw.githubusercontent.com/whynot2018/picpro/master/img/Connections.JPG) <br>
-![16f690 ICSP](https://raw.githubusercontent.com/whynot2018/picpro/master/img/PhotoConnected.JPG)
+![16f690 ICSP](https://raw.githubusercontent.com/whynot2018/picpro/master/img/Connections.JPG | width=100) <br>
+![16f690 ICSP](https://raw.githubusercontent.com/whynot2018/picpro/master/img/PhotoConnected.JPG | width=100)
