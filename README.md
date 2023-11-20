@@ -116,3 +116,18 @@ picpro program -p /dev/ttyUSB0 -i YOUR_HEX_FILE.hex -t 12F675 --icsp
 ```bash
 picpro program -p /dev/ttyUSB0 -i YOUR_HEX_FILE.hex -t 12F675 --fuse=FUSE_NAME:FUSE_VALUE --fuse=FUSE_NAME:FUSE_VALUE
 ```
+http://www.robotification.com/2007/09/16/program-a-pic-16f690-with-the-diy-kit-150-programmer/
+
+
+### Programming your 16f690 via ICSP:
+
+    Place your 16F690 into the bread board so that each pin is on a seperate track.
+    Plug in your ICSP break out cable and plug each wire into the track of the corresponding pin as per the diagram below:
+        Note: ignore the colours in Micro Pro they do not match properly.
+        Note: the LOW pin is not used.
+    Load the NEW Version Micro Pro and select ’16F690-I’ from the chip list.
+    Load your test .hex program (must be for 16f690)
+    Program and then verify your 16f690!
+    ![alt text](https://raw.githubusercontent.com/whynot2018/picpro/master/img/Connections.JPG?raw=true) <br>
+    
+    ![alt text](https://raw.githubusercontent.com/whynot2018/picpro/master/img/PhotoConnected.JPG?raw=true)
