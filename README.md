@@ -128,6 +128,6 @@ http://www.robotification.com/2007/09/16/program-a-pic-16f690-with-the-diy-kit-1
     Load the NEW Version Micro Pro and select ’16F690-I’ from the chip list.
     Load your test .hex program (must be for 16f690)
     Program and then verify your 16f690!
-    ![alt text](https://raw.githubusercontent.com/whynot2018/picpro/master/img/Connections.JPG?raw=true) <br>
+    ![alt text](https://raw.githubusercontent.com/whynot2018/picpro/master/img/Connections.JPG) <br>
     
-    ![alt text](https://raw.githubusercontent.com/whynot2018/picpro/master/img/PhotoConnected.JPG?raw=true)
+    ![alt text](https://raw.githubusercontent.com/whynot2018/picpro/master/img/PhotoConnected.JPG)
